@@ -13,5 +13,6 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	$setting=Setting::find(1);
+	return View::make('index')->with('settings',$setting);
 });
