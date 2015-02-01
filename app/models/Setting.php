@@ -1,4 +1,7 @@
-class Setting extends Eloquent {
-	protected $table = 'settings';
-	protected $timestamps =false;
+<?php
+
+class Setting extends Eloquent{
+    protected $table='settings';   
+    public $timestamps = false;
 }
+

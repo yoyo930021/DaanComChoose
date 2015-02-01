@@ -16,3 +16,9 @@ Route::get('/', function()
 	$setting=Setting::find(1);
 	return View::make('index')->with('settings',$setting);
 });
+Route::post('/', 'StudentController@login');
+
+Route::get('/choose','StudentController@choose');
+
+Route::get('/logout','StudentController@logout');
+

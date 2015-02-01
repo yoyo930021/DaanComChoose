@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'DaanComChoose',
 			'username'  => 'DaanComChoose',
-			'password'  => 'J3HDzexe3exBQvKJ',
+			'password'  => 'BVM9WTXeSqDCyLdL',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

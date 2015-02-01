@@ -1,0 +1,71 @@
+body{
+    background-color: #d8d8d8;
+
+}
+
+#header {
+    border-top: solid 20px #76ff00;
+    background-color: #FFFFFF;
+}
+
+.form-signin input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.form-signin-heading{
+    font-size: 24px;
+    text-align: center;
+}
+
+.help {
+    text-decoration:none;
+    font-size: 20px;
+    text-align: center;
+}
+.help a{
+    text-decoration:none;
+}
+
+.admin {
+    margin-top: 40px;
+    font-size: 18px;
+}
+.admin a{
+    text-decoration:none;
+}
+
+#contain {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: solid 1px gray;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px gray;
+}
+
+#status {
+    margin-top: 20px;
+    border-top: solid 20px #00ceff;
+}
+
+#body {
+    background-color: #FFFFFF;
+}
+
+#footer {
+    padding-top: 40px;
+    background-color: #FFFFFF;
+}
+
+#license {
+    background-color: #d8d8d8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
